@@ -1,2 +1,2 @@
 # machine-learning-basics
-Introduction to applied machine learning
+This repository contains code that demonstrate the basics of machine learning.
